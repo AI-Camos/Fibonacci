@@ -12,4 +12,3 @@ npm run start
 
 El esta configurado para ejecutar las 3 fuciones con valores establecido en el index.js del repositorio.
 En el caso que se necesite cambiar estos valores, se abre el archivo index.js y se cambian los valores en las lineas 4, 5 y 6. 
-
